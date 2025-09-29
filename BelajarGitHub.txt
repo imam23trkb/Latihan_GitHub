@@ -1,7 +1,7 @@
 Tahapan
 1. Belajar GitHub
 2. Belajar repo
-3. Belajar 
 4. Belajar config
 5. Belajar root
+6. Belajar tools
 
